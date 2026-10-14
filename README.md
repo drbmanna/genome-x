@@ -60,11 +60,11 @@ Data files are never committed. See `data/README.md`.
 
 ## Team
 
+- Hazel (Biotechnology)
+- Kartik (Computer Science Engineering)
+- Madhu Yashni (Chemical Engineering)
 - Shivangi Kala (CSE Data Science)
 - Thameem Junaid (Information Technology)
-- Madhu Yashni (Chemical Engineering)
-- Kartik (Computer Science Engineering)
-- Hazel (Biotechnology)
 
 Guided by Bharat Manna, VIT Vellore.
 
