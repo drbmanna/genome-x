@@ -1,0 +1,43 @@
+# Data (never commit data to this repo)
+data/*
+!data/README.md
+*.bed
+*.bed.gz
+*.bigWig
+*.bw
+*.bam
+*.bai
+*.fa
+*.fasta
+*.fa.gz
+*.fasta.gz
+*.vcf
+*.vcf.gz
+*.csv
+*.tsv
+*.parquet
+
+# Trained models and large outputs
+*.pkl
+*.joblib
+*.h5
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Notebooks: keep clean, strip outputs before committing when possible
+
+# OS and editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
