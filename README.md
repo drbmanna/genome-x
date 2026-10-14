@@ -68,7 +68,7 @@ Data files are never committed. See `data/README.md`.
 - Shivangi Kala (CSE Data Science)
 - Thameem Junaid (Information Technology)
 
-Guided by Bharat Manna, VIT Vellore.
+Mentored by Bharat Manna, VIT Vellore.
 
 ## Learning resources
 
