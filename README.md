@@ -72,7 +72,6 @@ Guided by Bharat Manna, VIT Vellore.
 
 Biology:
 
-- Khan Academy, Biology: central dogma and gene regulation units.
 - ENCODE Project portal (encodeproject.org): getting started, and what ChIP-seq measures.
 - Rosalind (rosalind.info): learn FASTA parsing, k-mers, and GC content by coding.
 - IUPAC nucleotide codes: A, C, G, T are bases; N means any base (unknown). N is not a
@@ -80,7 +79,6 @@ Biology:
 
 Machine learning:
 
-- StatQuest (youtube.com/@statquest): Decision Trees, Random Forests, Confusion Matrix,
-  Precision and Recall, ROC and AUC.
+- Fundamentals of ML, Google: https://developers.google.com/machine-learning
 - scikit-learn user guide (scikit-learn.org): RandomForestClassifier, and model evaluation.
 - SHAP documentation (shap.readthedocs.io): per-prediction explanation with TreeExplainer.
