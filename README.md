@@ -2,6 +2,8 @@
 
 Explainable machine learning for the effect of DNA mutations on CTCF binding.
 
+VIT course BABIT191 (Basic Multidisciplinary Project), 2026-27.
+
 ## What this project does
 
 We train a model to predict whether a short DNA sequence is bound by the transcription
