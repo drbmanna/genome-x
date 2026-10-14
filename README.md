@@ -53,7 +53,7 @@ Data files are never committed. See `data/README.md`.
 
 - `main` is protected. Nobody pushes to it directly.
 - Each person works on their own branch, named `yourname/task`, for example
-  `hazel/data-cleaning`.
+  `firstname/data-cleaning`.
 - Open a pull request when a piece of work is ready. It gets reviewed, then merged.
 - Record the exact command, the data source, the genome build, and the date whenever you
   download or process data. This is how the work stays reproducible.
